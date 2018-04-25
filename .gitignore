@@ -1,0 +1,4 @@
+home/**/*
+versions/**/go
+!home/**/.gitkeep
+!*.gitkeep
